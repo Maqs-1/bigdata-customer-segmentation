@@ -1,1 +1,1 @@
-# bigdata-customer-segmentation
+# bigdata_customer_segmentation_Max_Guiriec
